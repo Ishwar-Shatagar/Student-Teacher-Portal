@@ -1,0 +1,8 @@
+{
+  "name": "AIML Mini Prjct",
+  "description": "A comprehensive Learning Management System for colleges that integrates student performance analysis, attendance monitoring with face recognition, and a detailed feedback system. It provides role-based dashboards for students and faculty with AI-powered insights from Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
